@@ -6,7 +6,7 @@ This is a simple web site for **listening meditating sounds.**
 
 # Demo
 
-You can find live demo [here](meditationapp.netlify.com).
+You can find live demo [here](https://meditationapp.netlify.com/).
 
 # How To Use
 
